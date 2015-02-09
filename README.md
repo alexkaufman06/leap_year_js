@@ -5,6 +5,7 @@ Methods allow the user to determine whether a given year is a leap year.
 
 Known Bugs
 ----------
+Zarro Boogs
 
 None as of 2014-02-09.
 
